@@ -1,0 +1,9 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "block/cobweb"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 10}, "model" : "block/stone"}
+    ]
+}

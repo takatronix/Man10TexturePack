@@ -1,0 +1,214 @@
+{
+	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "3d/mandroid/droid_phone1",
+		"1": "3d/mandroid/droid_phone2",
+		"2": "3d/mandroid/droid_phone3",
+		"particle": "3d/mandroid/droid_phone1"
+	},
+	"elements": [
+		{
+			"name": "yokor",
+			"from": [-2, 1, 7],
+			"to": [-1, 27, 9],
+			"faces": {
+				"north": {
+					"uv": [3.5, 0.75, 12.75, 15],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [3.5, 0.75, 12.75, 15],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [3.5, 0.75, 12.75, 15],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [3.5, 0.75, 12.75, 15],
+					"texture": "#1"
+				},
+				"up": {
+					"uv": [3.5, 0.75, 12.75, 15],
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [3.5, 0.75, 12.75, 15],
+					"texture": "#1"
+				}
+			},
+			"type": "cube"
+		},
+		{
+			"name": "gamenn",
+			"from": [-1, 0, 7],
+			"to": [16, 28, 9],
+			"faces": {
+				"north": {
+					"uv": [3.5, 0.75, 12.75, 15],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [3.5, 0.75, 12.75, 15],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [3.5, 0.75, 12.75, 15],
+					"texture": "#2"
+				},
+				"west": {
+					"uv": [3.5, 0.75, 12.75, 15],
+					"texture": "#1"
+				},
+				"up": {
+					"uv": [3.5, 0.75, 12.75, 15],
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [3.5, 0.75, 12.75, 15],
+					"texture": "#1"
+				}
+			},
+			"type": "cube"
+		},
+		{
+			"name": "yokou",
+			"from": [0, 28, 7],
+			"to": [15, 29, 9],
+			"faces": {
+				"north": {
+					"uv": [3.5, 0.75, 12.75, 15],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [3.5, 0.75, 12.75, 15],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [3.5, 0.75, 12.75, 15],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [3.5, 0.75, 12.75, 15],
+					"texture": "#1"
+				},
+				"up": {
+					"uv": [3.5, 0.75, 12.75, 15],
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [3.5, 0.75, 12.75, 15],
+					"texture": "#1"
+				}
+			},
+			"type": "cube"
+		},
+		{
+			"name": "yokol",
+			"from": [16, 1, 7],
+			"to": [17, 27, 9],
+			"faces": {
+				"north": {
+					"uv": [3.5, 0.75, 12.75, 15],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [3.5, 0.75, 12.75, 15],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [3.5, 0.75, 12.75, 15],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [3.5, 0.75, 12.75, 15],
+					"texture": "#1"
+				},
+				"up": {
+					"uv": [3.5, 0.75, 12.75, 15],
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [3.5, 0.75, 12.75, 15],
+					"texture": "#1"
+				}
+			},
+			"type": "cube"
+		},
+		{
+			"name": "yokod",
+			"from": [0, -1, 7],
+			"to": [15, 0, 9],
+			"faces": {
+				"north": {
+					"uv": [3.5, 0.75, 12.75, 15],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [3.5, 0.75, 12.75, 15],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [3.5, 0.75, 12.75, 15],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [3.5, 0.75, 12.75, 15],
+					"texture": "#1"
+				},
+				"up": {
+					"uv": [3.5, 0.75, 12.75, 15],
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [3.5, 0.75, 12.75, 15],
+					"texture": "#1"
+				}
+			},
+			"type": "cube"
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.2, 0.2, 0.2],
+			"rotation": [-1, 170, 0],
+			"translation": [0, 1.3, 0.7]
+		},
+		"head": {
+			"scale": [0.3, 0.3, 0.3],
+			"rotation": [0, 0, 0],
+			"translation": [0, 8.5, -1]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.2, 0.2, 0.2],
+			"rotation": [-1, 170, 0],
+			"translation": [0, 1.3, 0.7]
+		},
+		"firstperson_righthand": {
+			"scale": [0.4, 0.4, 0.4],
+			"rotation": [0, 94, -26],
+			"translation": [2, 0.5, 1.5]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.4, 0.4, 0.4],
+			"rotation": [0, 94, -26],
+			"translation": [2, 0.5, 1.5]
+		},
+		"ground": {
+			"scale": [0.3, 0.3, 0.3],
+			"rotation": [0, 0, 0],
+			"translation": [0, 2, 0]
+		},
+		"fixed": {
+			"scale": [0.5, 0.5, 0.5],
+			"rotation": [0, 0, 0],
+			"translation": [0, -3, -1]
+		},
+		"gui": {
+			"scale": [0.5, 0.5, 0.5],
+			"rotation": [0, 180, 0],
+			"translation": [0, -3, 0]
+		}
+	}
+}

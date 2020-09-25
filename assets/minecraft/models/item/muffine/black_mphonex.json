@@ -1,0 +1,201 @@
+﻿{
+	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
+	"textures": {
+		"0": "custom/other/mphone/phonex_1",
+		"1": "custom/other/mphone/phonex_2",
+		"2": "custom/other/mphone/phonex_3",
+		"particle": "custom/other/mphone/phonex_1"
+	},
+	"elements": [
+		{
+			"name": "cube",
+			"from": [0, 0, 6],
+			"to": [16, 30, 7],
+			"faces": {
+				"north": {
+					"uv": [4, 0.75, 11.75, 15.25],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [4, 0.5, 11.75, 15],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [4, 0.5, 11.75, 15],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [4, 0.5, 11.75, 15],
+					"texture": "#1"
+				},
+				"up": {"uv": [4, 0.5, 11.75, 15], "texture": "#1"},
+				"down": {"uv": [4, 0.5, 11.75, 15], "texture": "#1"}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [-1, 0, 6],
+			"to": [0, 30, 8],
+			"faces": {
+				"north": {
+					"uv": [4, 0.5, 11.75, 15],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [4, 0.5, 11.75, 15],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [4, 0.5, 11.75, 15],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [4, 0.5, 11.75, 15],
+					"texture": "#1"
+				},
+				"up": {"uv": [4, 0.5, 11.75, 15], "texture": "#1"},
+				"down": {"uv": [4, 0.5, 11.75, 15], "texture": "#1"}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [16, 0, 6],
+			"to": [17, 30, 8],
+			"faces": {
+				"north": {
+					"uv": [4, 0.5, 11.75, 15],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [4, 0.5, 11.75, 15],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [4, 0.5, 11.75, 15],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [4, 0.5, 11.75, 15],
+					"texture": "#1"
+				},
+				"up": {"uv": [4, 0.5, 11.75, 15], "texture": "#1"},
+				"down": {"uv": [4, 0.5, 11.75, 15], "texture": "#1"}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [0, -1, 6],
+			"to": [16, 0, 8],
+			"faces": {
+				"north": {
+					"uv": [4, 0.5, 11.75, 15],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [4, 0.5, 11.75, 15],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [4, 0.5, 11.75, 15],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [4, 0.5, 11.75, 15],
+					"texture": "#1"
+				},
+				"up": {"uv": [4, 0.5, 11.75, 15], "texture": "#1"},
+				"down": {"uv": [4, 0.5, 11.75, 15], "texture": "#1"}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [0, 30, 6],
+			"to": [16, 31, 8],
+			"faces": {
+				"north": {
+					"uv": [4, 0.5, 11.75, 15],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [4, 0.5, 11.75, 15],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [4, 0.5, 11.75, 15],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [4, 0.5, 11.75, 15],
+					"texture": "#1"
+				},
+				"up": {"uv": [4, 0.5, 11.75, 15], "texture": "#1"},
+				"down": {"uv": [4, 0.5, 11.75, 15], "texture": "#1"}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [0, 0, 7],
+			"to": [16, 30, 8],
+			"faces": {
+				"north": {
+					"uv": [4, 0.5, 11.75, 15],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [4, 0.5, 11.75, 15],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [4, 0.5, 11.75, 15],
+					"texture": "#2"
+				},
+				"west": {
+					"uv": [4, 0.5, 11.75, 15],
+					"texture": "#1"
+				},
+				"up": {"uv": [4, 0.5, 11.75, 15], "texture": "#1"},
+				"down": {"uv": [4, 0.5, 11.75, 15], "texture": "#1"}
+			}
+		}
+	],
+	"groups": [0, 1, 2, 3, 4, 5],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.2, 0.2, 0.2],
+			"rotation": [-1, 170, 0],
+			"translation": [0, 1.7, 0.45]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.2, 0.2, 0.2],
+			"rotation": [-1, 170, 0],
+			"translation": [0, 1.7, 0.45]
+		},
+		"firstperson_righthand": {
+			"scale": [0.4, 0.4, 0.4],
+			"rotation": [0, 90, -24],
+			"translation": [2, 0, 1.5]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.4, 0.4, 0.4],
+			"translation": [2, 0, 1.5],
+			"rotation": [0, 90, -24]
+		},
+		"head": {
+			"scale": [0.3, 0.3, 0.3],
+			"translation": [0, 8.8, -1]
+		},
+		"ground": {
+			"scale": [0.3, 0.3, 0.3],
+			"translation": [0, 2, 0]
+		},
+		"fixed": {
+			"scale": [0.5, 0.5, 0.5],
+			"translation": [0, -3.5, -1]
+		},
+		"gui": {
+			"scale": [0.47, 0.47, 0.47],
+			"rotation": [0, 180, 0],
+			"translation": [0, -3.3, 0]
+		}
+	}
+}

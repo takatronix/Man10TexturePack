@@ -1,0 +1,27 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/potion_overlay",
+        "layer1": "item/potion"
+    },
+         "overrides": [
+        { "predicate": {"custom_model_data": 10}, "model" : "3d/maquarias"},
+        { "predicate": {"custom_model_data": 11}, "model" : "3d/mocarisweat"},
+        { "predicate": {"custom_model_data": 12}, "model" : "3d/winegrass"},
+        { "predicate": {"custom_model_data": 13}, "model" : "3d/magicpot"},
+        { "predicate": {"custom_model_data": 14}, "model" : "3d/tapioca_milktea"},
+        { "predicate": {"custom_model_data": 15}, "model" : "3d/coconut_juice"},
+        { "predicate": {"custom_model_data": 16}, "model" : "food/coffee"},
+        { "predicate": {"custom_model_data": 17}, "model" : "food/sushi8"},
+        { "predicate": {"custom_model_data": 18}, "model" : "food/barrel_mug"},
+        { "predicate": {"custom_model_data": 19}, "model" : "food/juice"},
+        { "predicate": {"custom_model_data": 20}, "model" : "food/champagne"},
+        { "predicate": {"custom_model_data": 21}, "model" : "food/beer"},
+
+        { "predicate": {"custom_model_data": 22}, "model" : "3d/beer_can"},
+        { "predicate": {"custom_model_data": 21}, "model" : "3d/madbull"},
+        { "predicate": {"custom_model_data": 21}, "model" : "3d/monster"},
+        { "predicate": {"custom_model_data": 21}, "model" : "3d/tomcola"},
+        { "predicate": {"custom_model_data": 21}, "model" : "3d/tomcola_0"}
+        ]
+    }

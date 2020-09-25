@@ -1,0 +1,22 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/suspicious_stew"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 10}, "model" : "3d/dango_and_manju"},
+        { "predicate": {"custom_model_data": 11}, "model" : "item/buschdonoel"},
+        { "predicate": {"custom_model_data": 12}, "model" : "item/bread_basket"},
+        { "predicate": {"custom_model_data": 13}, "model" : "3d/niku"},
+        { "predicate": {"custom_model_data": 14}, "model" : "food/steak"},
+        { "predicate": {"custom_model_data": 15}, "model" : "food/ramen"},
+        { "predicate": {"custom_model_data": 16}, "model" : "food/french_toast"},
+        { "predicate": {"custom_model_data": 17}, "model" : "food/shirasu_bowl"},
+        { "predicate": {"custom_model_data": 18}, "model" : "food/stew"},
+        { "predicate": {"custom_model_data": 19}, "model" : "food/honeytoast"},
+        { "predicate": {"custom_model_data": 20}, "model" : "food/shrimp_tempura_bowl"},
+        { "predicate": {"custom_model_data": 21}, "model" : "food/banquet"},
+        { "predicate": {"custom_model_data": 22}, "model" : "food/sushi_ship"}
+        ]
+}
+

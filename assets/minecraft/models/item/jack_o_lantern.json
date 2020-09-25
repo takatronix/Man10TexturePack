@@ -1,0 +1,10 @@
+{
+    "parent": "minecraft:block/orientable",
+    "textures": {
+        "layer0": "block/jack_o_lantern"
+    },
+    "overrides": [
+       { "predicate": {"custom_model_data": 0}, "model" : "block/jack_o_lantern"},
+       { "predicate": {"custom_model_data": 10}, "model" : "block/chouchin"}
+        ]
+}

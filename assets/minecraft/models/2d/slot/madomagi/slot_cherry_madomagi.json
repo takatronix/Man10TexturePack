@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "2d/slot_tex/madomagi_tex/slot_cherry_madomagi"
+	}
+}

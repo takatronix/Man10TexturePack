@@ -1,0 +1,41 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/baked_potato"
+    },
+         "overrides": [
+        { "predicate": {"custom_model_data": 10}, "model" : "food/sushi10"},
+        { "predicate": {"custom_model_data": 11}, "model" : "food/sushi1"},
+        { "predicate": {"custom_model_data": 12}, "model" : "food/sushi3"},
+        { "predicate": {"custom_model_data": 13}, "model" : "food/sushi4"},
+        { "predicate": {"custom_model_data": 14}, "model" : "food/sushi5"},
+        { "predicate": {"custom_model_data": 15}, "model" : "food/pizza"},
+        { "predicate": {"custom_model_data": 16}, "model" : "food/ppap"},
+        { "predicate": {"custom_model_data": 17}, "model" : "item/other/513"},
+        { "predicate": {"custom_model_data": 18}, "model" : "item/corn"},
+        { "predicate": {"custom_model_data": 19}, "model" : "3d/hat/original_character"},
+        { "predicate": {"custom_model_data": 20}, "model" : "3d/persimmon"},
+        { "predicate": {"custom_model_data": 21}, "model" : "item/meat_with_bone"},
+        { "predicate": {"custom_model_data": 22}, "model" : "3d/frankfurt"},
+        { "predicate": {"custom_model_data": 23}, "model" : "food/niku"},
+        { "predicate": {"custom_model_data": 24}, "model" : "item/other/s-macron"},
+        { "predicate": {"custom_model_data": 25}, "model" : "food/hamburger"},
+        { "predicate": {"custom_model_data": 26}, "model" : "item/egg"},
+        { "predicate": {"custom_model_data": 27}, "model" : "item/clay_ball"},
+        { "predicate": {"custom_model_data": 28}, "model" : "block/cobblestone"},
+        { "predicate": {"custom_model_data": 29}, "model" : "block/diorite"},
+        { "predicate": {"custom_model_data": 30}, "model" : "block/andesite"},
+        { "predicate": {"custom_model_data": 31}, "model" : "block/granite"},
+        { "predicate": {"custom_model_data": 32}, "model" : "block/iron_ore"},
+        { "predicate": {"custom_model_data": 33}, "model" : "block/diamond_ore"},
+        { "predicate": {"custom_model_data": 34}, "model" : "item/nether_brick"},
+        { "predicate": {"custom_model_data": 35}, "model" : "food/toufu"},
+        { "predicate": {"custom_model_data": 36}, "model" : "food/omochi"},
+        { "predicate": {"custom_model_data": 37}, "model" : "food/vanilla_icecream"},
+        { "predicate": {"custom_model_data": 38}, "model" : "item/apple_candy"},
+        { "predicate": {"custom_model_data": 39}, "model" : "food/sasimi_tuna"},
+        { "predicate": {"custom_model_data": 40}, "model" : "food/shirokuma_icecleam"},
+        { "predicate": {"custom_model_data": 41}, "model" : "food/donuts"},
+        { "predicate": {"custom_model_data": 42}, "model" : "food/baked_potato"}
+        ]
+}

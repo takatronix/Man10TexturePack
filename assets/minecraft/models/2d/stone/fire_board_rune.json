@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "2d/stone_tex/fire_board_rune"
+	}
+}

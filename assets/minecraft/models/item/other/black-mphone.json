@@ -1,0 +1,148 @@
+{
+	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
+	"textures": {
+        "missing": "custom/other/mphone/smart_phone1-1",
+				"missing2": "custom/other/mphone/smart_phone1-2",
+				"missing3": "custom/other/mphone/smart_phone1-3"
+	},
+	"elements": [
+		{
+			"name": "gamenn",
+			"from": [0, 0, 7],
+			"to": [15, 28, 9],
+			"faces": {
+				"north": {
+					"uv": [4.25, 0.75, 11.75, 15.25],
+					"texture": "#missing"
+				},
+				"east": {"uv": [4.25, 0.75, 11.75, 15.25], "texture": "#missing2"},
+				"south": {
+					"uv": [4.25, 0.75, 11.75, 15.25],
+					"texture": "#missing3"
+				},
+				"west": {"uv": [4.25, 0.75, 11.75, 15.25], "texture": "#missing2"},
+				"up": {"uv": [4.25, 0.75, 11.75, 15.25], "texture": "#missing2"},
+				"down": {"uv": [4.25, 0.75, 11.75, 15.25], "texture": "#missing2"}
+			}
+		},
+		{
+			"name": "yokor",
+			"from": [0, 0, 7],
+			"to": [-1, 28, 9],
+			"faces": {
+				"north": {
+					"uv": [4.25, 0.75, 11.75, 15.25],
+					"texture": "#missing2"
+				},
+				"east": {"uv": [4.25, 0.75, 11.75, 15.25], "texture": "#missing2"},
+				"south": {
+					"uv": [4.25, 0.75, 11.75, 15.25],
+					"texture": "#missing2"
+				},
+				"west": {"uv": [4.25, 0.75, 11.75, 15.25], "texture": "#missing2"},
+				"up": {"uv": [4.25, 0.75, 11.75, 15.25], "texture": "#missing2"},
+				"down": {"uv": [4.25, 0.75, 11.75, 15.25], "texture": "#missing2"}
+			}
+		},
+		{
+			"name": "yokol",
+			"from": [15, 0, 7],
+			"to": [16, 28, 9],
+			"faces": {
+				"north": {
+					"uv": [4.25, 0.75, 11.75, 15.25],
+					"texture": "#missing2"
+				},
+				"east": {"uv": [4.25, 0.75, 11.75, 15.25], "texture": "#missing2"},
+				"south": {
+					"uv": [4.25, 0.75, 11.75, 15.25],
+					"texture": "#missing2"
+				},
+				"west": {"uv": [4.25, 0.75, 11.75, 15.25], "texture": "#missing2"},
+				"up": {"uv": [4.25, 0.75, 11.75, 15.25], "texture": "#missing2"},
+				"down": {"uv": [4.25, 0.75, 11.75, 15.25], "texture": "#missing2"}
+			}
+		},
+		{
+			"name": "yokou",
+			"from": [0, 28, 7],
+			"to": [15, 29, 9],
+			"faces": {
+				"north": {
+					"uv": [4.25, 0.75, 11.75, 15.25],
+					"texture": "#missing2"
+				},
+				"east": {"uv": [4.25, 0.75, 11.75, 15.25], "texture": "#missing2"},
+				"south": {
+					"uv": [4.25, 0.75, 11.75, 15.25],
+					"texture": "#missing2"
+				},
+				"west": {"uv": [4.25, 0.75, 11.75, 15.25], "texture": "#missing2"},
+				"up": {"uv": [4.25, 0.75, 11.75, 15.25], "texture": "#missing2"},
+				"down": {"uv": [4.25, 0.75, 11.75, 15.25], "texture": "#missing2"}
+			}
+		},
+		{
+			"name": "yokod",
+			"from": [0, 0, 7],
+			"to": [15, -1, 9],
+			"faces": {
+				"north": {
+					"uv": [4.25, 0.75, 11.75, 15.25],
+					"texture": "#missing2"
+				},
+				"east": {"uv": [4.25, 0.75, 11.75, 15.25], "texture": "#missing2"},
+				"south": {
+					"uv": [4.25, 0.75, 11.75, 15.25],
+					"texture": "#missing2"
+				},
+				"west": {"uv": [4.25, 0.75, 11.75, 15.25], "texture": "#missing2"},
+				"up": {"uv": [4.25, 0.75, 11.75, 15.25], "texture": "#missing2"},
+				"down": {"uv": [4.25, 0.75, 11.75, 15.25], "texture": "#missing2"}
+			}
+		}
+	],
+	"groups": [1, 0, 3, 2, 5, 4, 7, 6, 8],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.2, 0.2, 0.2],
+			"rotation": [-1, 170, 0],
+			"translation": [0, 1.3, 0.7]
+		},
+		"head": {
+			"scale": [0.3, 0.3, 0.3],
+			"rotation": [0, 0, 0],
+			"translation": [0, 8.5, -1]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.2, 0.2, 0.2],
+			"rotation": [-1, 170, 0],
+			"translation": [0, 1.3, 0.7]
+		},
+		"firstperson_righthand": {
+			"scale": [0.4, 0.4, 0.4],
+			"rotation": [0, 90, -26],
+			"translation": [2, 0.5, 1.5]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.4, 0.4, 0.4],
+			"rotation": [0, 90, -26],
+			"translation": [2, 0.5, 1.5]
+		},
+		"ground": {
+			"scale": [0.3, 0.3, 0.3],
+			"rotation": [0, 0, 0],
+			"translation": [0, 2, 0]
+		},
+		"fixed": {
+			"scale": [0.5, 0.5, 0.5],
+			"rotation": [0, 0, 0],
+			"translation": [0, -3, -1]
+		},
+		"gui": {
+			"scale": [0.5, 0.5, 0.5],
+			"rotation": [0, 180, 0],
+			"translation": [0, -3, 0]
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/snowball"
+    },
+    "overrides": [
+   { "predicate": {"custom_model_data": 10}, "model" : "3d/eagle"},
+   { "predicate": {"custom_model_data": 11}, "model" : "guns/throwing_star"},
+   { "predicate": {"custom_model_data": 12}, "model" : "item/other/slot/orange"},
+   { "predicate": {"custom_model_data": 13}, "model" : "item/potato"},
+   { "predicate": {"custom_model_data": 14}, "model" : "item/emerald"},
+   { "predicate": {"custom_model_data": 15}, "model" : "item/turtle_egg"}
+   ]
+}

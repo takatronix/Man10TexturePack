@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/cooked_beef"
+    },
+         "overrides": [
+        { "predicate": {"custom_model_data": 10}, "model" : "food/yakiniku"},
+        { "predicate": {"custom_model_data": 11}, "model" : "food/roast_pork"},
+        { "predicate": {"custom_model_data": 12}, "model" : "food/gyouza"},
+        { "predicate": {"custom_model_data": 13}, "model" : "food/unajuu"},        
+        { "predicate": {"custom_model_data": 14}, "model" : "food/tianjin_rice"}
+        ]
+}

@@ -1,0 +1,54 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "custom/uekibachi/tornado_2",
+		"particle": "custom/uekibachi/tornado_2"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 9],
+			"to": [16, 16, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 17]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0.75, 0.5], "texture": "#0"},
+				"south": {"uv": [0, 0, 0.75, 0.5], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.75, 0.5], "texture": "#0"},
+				"up": {"uv": [0, 0, 0.75, 0.5], "texture": "#0"},
+				"down": {"uv": [0, 0, 0.75, 0.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [50, 6, 0],
+			"translation": [0, 1, -2.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [50, 0, 0],
+			"translation": [0, 1, -2.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [106, 0, 0],
+			"translation": [-2.75, 1.5, -2.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [106, 0, 0],
+			"translation": [-0.5, 2.25, -5]
+		},
+		"ground": {
+			"rotation": [91, 0, 0],
+			"translation": [0, -0.75, 0]
+		},
+		"gui": {
+			"rotation": [-180, 0, 0],
+			"translation": [0.5, 0, 0]
+		},
+		"head": {
+			"translation": [0, -0.25, 0]
+		},
+		"fixed": {
+			"translation": [0, 0, -3.25]
+		}
+	}
+}

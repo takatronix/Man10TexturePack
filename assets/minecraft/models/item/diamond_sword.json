@@ -1,0 +1,15 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_sword"
+    },
+         "overrides": [
+        { "predicate": {"custom_model_data": 10}, "model" : "item/muffine/lightsaber"},
+        { "predicate": {"custom_model_data": 11}, "model" : "guns/bustersword"},
+        { "predicate": {"custom_model_data": 12}, "model" : "guns/sao_elucidator"},
+        { "predicate": {"custom_model_data": 13}, "model" : "item/muffine/excalibur"},
+        { "predicate": {"custom_model_data": 14}, "model" : "guns/double_blade_division"},
+        { "predicate": {"custom_model_data": 15}, "model" : "guns/crystal_blade"},
+        { "predicate": {"custom_model_data": 16}, "model" : "guns/big_scythe"}
+        ]
+    }

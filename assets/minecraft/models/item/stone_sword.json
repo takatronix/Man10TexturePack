@@ -1,0 +1,12 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/stone_sword"
+    },
+         "overrides": [
+        { "predicate": {"custom_model_data": 10}, "model" : "guns/stone_spear"},
+        { "predicate": {"custom_model_data": 11}, "model" : "guns/kanabou"},
+        { "predicate": {"custom_model_data": 12}, "model" : "guns/stone_hammer"},
+        { "predicate": {"custom_model_data": 13}, "model" : "guns/mametaku_stone_spear"}
+        ]
+    }

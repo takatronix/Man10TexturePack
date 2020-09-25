@@ -1,0 +1,9 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_shovel"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 10}, "model" : "item/lonsday_light_shovel"}
+    ]
+}

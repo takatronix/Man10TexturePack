@@ -1,0 +1,12 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_sword"
+    },
+         "overrides": [
+        { "predicate": {"custom_model_data": 10}, "model" : "guns/kusanagi"},
+        { "predicate": {"custom_model_data": 11}, "model" : "guns/rosutovein___"},
+        { "predicate": {"custom_model_data": 12}, "model" : "guns/long_iron_sword"},
+        { "predicate": {"custom_model_data": 13}, "model" : "guns/normal_scythe"}
+        ]
+    }
