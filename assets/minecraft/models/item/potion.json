@@ -19,9 +19,9 @@
         { "predicate": {"custom_model_data": 21}, "model" : "food/beer"},
 
         { "predicate": {"custom_model_data": 22}, "model" : "3d/beer_can"},
-        { "predicate": {"custom_model_data": 23}, "model" : "3d/madbull"},
-        { "predicate": {"custom_model_data": 24}, "model" : "3d/monster"},
-        { "predicate": {"custom_model_data": 25}, "model" : "3d/tomcola"},
-        { "predicate": {"custom_model_data": 26}, "model" : "3d/tomcola_0"}
+        { "predicate": {"custom_model_data": 21}, "model" : "3d/madbull"},
+        { "predicate": {"custom_model_data": 21}, "model" : "3d/monster"},
+        { "predicate": {"custom_model_data": 21}, "model" : "3d/tomcola"},
+        { "predicate": {"custom_model_data": 21}, "model" : "3d/tomcola_0"}
         ]
     }

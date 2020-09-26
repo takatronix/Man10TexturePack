@@ -256,6 +256,11 @@
         { "predicate": {"custom_model_data": 544 }, "model": "3d/hat/miniengel_set" },
         { "predicate": {"custom_model_data": 545 }, "model": "3d/hat/kumanju" },
         { "predicate": {"custom_model_data": 546 }, "model": "3d/hat/kumanju_big" },
-        { "predicate": {"custom_model_data": 547 }, "model": "item/iron_hoe" }
+        { "predicate": {"custom_model_data": 547 }, "model": "item/iron_hoe" },
+
+        { "predicate": {"custom_model_data": 548 }, "model": "3d/interior/pail" },
+        { "predicate": {"custom_model_data": 549 }, "model": "3d/interior/setsubunn_masu" },
+        { "predicate": {"custom_model_data": 550 }, "model": "item/drug/tabaco" },
+        { "predicate": {"custom_model_data": 551 }, "model": "item/iron_hoe" }
         ]
 }
