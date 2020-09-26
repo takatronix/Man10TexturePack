@@ -467,10 +467,41 @@
       "slot/dq_zenmetsu"
     ]
   },
+  "slot.maou": {
+    "category": "master",
+    "sounds": [
+      "slot/maou"
+    ]
+  },
   "slot.canon": {
     "category": "master",
     "sounds": [
       "slot/canon"
+    ]
+  },
+  "slot.eva_next": {
+    "category": "master",
+    "sounds": [
+      "slot/eva_next"
+    ]
+  },
+
+  "slot.eva_tsubasawokudasai": {
+    "category": "master",
+    "sounds": [
+      "slot/eva_tsubasawokudasai"
+    ]
+  },
+  "slot.eva_beast": {
+    "category": "master",
+    "sounds": [
+      "slot/eva_beast"
+    ]
+  },
+  "slot.eva_atfield": {
+    "category": "master",
+    "sounds": [
+      "slot/eva_atfield"
     ]
   },
 
@@ -484,6 +515,12 @@
     "category": "master",
     "sounds": [
       "slot/kyuin_short"
+    ]
+  },
+  "slot.eva_kakusei": {
+    "category": "master",
+    "sounds": [
+      "slot/eva_kakusei"
     ]
   },
   "slot.amazing_grarce": {
@@ -508,18 +545,6 @@
     "category": "master",
     "sounds": [
       "slot/quest_clear"
-    ]
-  },
-  "slot.umi_atari": {
-    "category": "master",
-    "sounds": [
-      "slot/umi_atari"
-    ]
-  },
-  "slot.umi_reel": {
-    "category": "master",
-    "sounds": [
-      "slot/umi_reel"
     ]
   },
   "slot.sign_of_hero": {
