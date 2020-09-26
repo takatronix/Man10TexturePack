@@ -267,6 +267,19 @@
         { "predicate": {"custom_model_data": 689 }, "model": "item/iron_nugget" },
 
         { "predicate": {"custom_model_data": 690 }, "model": "food/ramen_1" },
-        { "predicate": {"custom_model_data": 691 }, "model": "item/iron_nugget" }
+        { "predicate": {"custom_model_data": 691 }, "model": "item/iron_nugget" },
+
+        { "predicate": {"custom_model_data": 692 }, "model": "2d/slot/douketsu/gold" },
+        { "predicate": {"custom_model_data": 693 }, "model": "2d/slot/douketsu/silver" },
+        { "predicate": {"custom_model_data": 694 }, "model": "2d/slot/douketsu/copper" },
+        { "predicate": {"custom_model_data": 695 }, "model": "2d/slot/douketsu/up" },
+        { "predicate": {"custom_model_data": 696 }, "model": "2d/slot/douketsu/down" },
+        { "predicate": {"custom_model_data": 697 }, "model": "2d/slot/douketsu/bat" },
+        { "predicate": {"custom_model_data": 698 }, "model": "2d/slot/douketsu/black_diamond" },
+        { "predicate": {"custom_model_data": 699 }, "model": "2d/slot/douketsu/gas" },
+        { "predicate": {"custom_model_data": 700 }, "model": "2d/slot/douketsu/f" },
+        { "predicate": {"custom_model_data": 701 }, "model": "2d/slot/douketsu/waterwave" },
+        { "predicate": {"custom_model_data": 702 }, "model": "2d/slot/douketsu/bigrock" },
+        { "predicate": {"custom_model_data": 703 }, "model": "item/iron_nugget" }
         ]
 }
