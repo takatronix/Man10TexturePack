@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "2d/slot_tex/helper_slot_tex/bat"
+		"layer0": "2d/slot_tex/douketsu_tex/bat.png"
 	}
 }

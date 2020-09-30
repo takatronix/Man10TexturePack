@@ -279,6 +279,7 @@
         { "predicate": {"custom_model_data": 697 }, "model": "2d/slot/man5/man5_seven" },
         { "predicate": {"custom_model_data": 698 }, "model": "item/iron_nugget" },
 
+        { "predicate": {"custom_model_data": 730 }, "model": "2d/stone/brass_ingot" },
         { "predicate": {"custom_model_data": 731 }, "model": "2d/stone/brass" },
         { "predicate": {"custom_model_data": 732 }, "model": "2d/stone/copper" },
         { "predicate": {"custom_model_data": 733 }, "model": "2d/stone/copper_ingot" },
@@ -288,6 +289,9 @@
         { "predicate": {"custom_model_data": 737 }, "model": "2d/stone/zinc_ingot" },
         { "predicate": {"custom_model_data": 738 }, "model": "item/iron_nugget" },
 
+        { "predicate": {"custom_model_data": 4998 }, "model": "2d/slot/douketsu/black_diamond" },
+        { "predicate": {"custom_model_data": 4999 }, "model": "2d/slot/douketsu/copper" },
+        { "predicate": {"custom_model_data": 5000 }, "model": "2d/slot/douketsu/gold" },    
         { "predicate": {"custom_model_data": 5001 }, "model": "2d/slot/douketsu/bat" },
         { "predicate": {"custom_model_data": 5002 }, "model": "2d/slot/douketsu/bigrock" },
         { "predicate": {"custom_model_data": 5003 }, "model": "2d/slot/douketsu/down" },

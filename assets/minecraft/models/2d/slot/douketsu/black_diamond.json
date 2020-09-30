@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "2d/slot_tex/douketsu_tex/up.png"
+		"layer0": "2d/stone_tex/black_diamond.png"
 	}
 }
