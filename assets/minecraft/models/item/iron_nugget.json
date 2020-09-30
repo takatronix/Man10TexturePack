@@ -247,14 +247,17 @@
         { "predicate": {"custom_model_data": 649 }, "model": "2d/slot/hihouden/anubis_7" },
         { "predicate": {"custom_model_data": 650 }, "model": "item/iron_nugget" },
 
-        { "predicate": {"custom_model_data": 651 }, "model": "2d/slot/eva/eva_eva" },
-        { "predicate": {"custom_model_data": 652 }, "model": "2d/slot/eva/eva_white7" },
-        { "predicate": {"custom_model_data": 653 }, "model": "2d/slot/eva/eva_blue7" },
-        { "predicate": {"custom_model_data": 654 }, "model": "2d/slot/eva/eva_cherry" },
-        { "predicate": {"custom_model_data": 655 }, "model": "2d/slot/eva/eva_suica" },
-        { "predicate": {"custom_model_data": 656 }, "model": "2d/slot/eva/eva_bell" },
-        { "predicate": {"custom_model_data": 657 }, "model": "2d/slot/eva/eva_replay" },
-        { "predicate": {"custom_model_data": 658 }, "model": "item/iron_nugget" },
+        { "predicate": {"custom_model_data": 651 }, "model": "2d/slot/seastory/umi1" },
+        { "predicate": {"custom_model_data": 652 }, "model": "2d/slot/seastory/umi2" },
+        { "predicate": {"custom_model_data": 653 }, "model": "2d/slot/seastory/umi3" },
+        { "predicate": {"custom_model_data": 654 }, "model": "2d/slot/seastory/umi4" },
+        { "predicate": {"custom_model_data": 655 }, "model": "2d/slot/seastory/umi5" },
+        { "predicate": {"custom_model_data": 656 }, "model": "2d/slot/seastory/umi6" },
+        { "predicate": {"custom_model_data": 657 }, "model": "2d/slot/seastory/umi7" },
+        { "predicate": {"custom_model_data": 658 }, "model": "2d/slot/seastory/umi8" },
+        { "predicate": {"custom_model_data": 659 }, "model": "2d/slot/seastory/umi9" },
+        { "predicate": {"custom_model_data": 660 }, "model": "2d/slot/seastory/umi10" },
+        { "predicate": {"custom_model_data": 661 }, "model": "item/iron_nugget" },
 
         { "predicate": {"custom_model_data": 681 }, "model": "2d/slot/hunter/1" },
         { "predicate": {"custom_model_data": 682 }, "model": "2d/slot/hunter/2" },
@@ -267,6 +270,31 @@
         { "predicate": {"custom_model_data": 689 }, "model": "item/iron_nugget" },
 
         { "predicate": {"custom_model_data": 690 }, "model": "food/ramen_1" },
-        { "predicate": {"custom_model_data": 691 }, "model": "item/iron_nugget" }
+        { "predicate": {"custom_model_data": 691 }, "model": "item/iron_nugget" },
+        { "predicate": {"custom_model_data": 692 }, "model": "2d/slot/man5/man5_bell" },
+        { "predicate": {"custom_model_data": 693 }, "model": "2d/slot/man5/man5_chance" },
+        { "predicate": {"custom_model_data": 694 }, "model": "2d/slot/man5/man5_cherry" },
+        { "predicate": {"custom_model_data": 695 }, "model": "2d/slot/man5/man5_reg" },
+        { "predicate": {"custom_model_data": 696 }, "model": "2d/slot/man5/man5_replay" },
+        { "predicate": {"custom_model_data": 697 }, "model": "2d/slot/man5/man5_seven" },
+        { "predicate": {"custom_model_data": 698 }, "model": "item/iron_nugget" },
+
+        { "predicate": {"custom_model_data": 731 }, "model": "2d/stone/brass" },
+        { "predicate": {"custom_model_data": 732 }, "model": "2d/stone/copper" },
+        { "predicate": {"custom_model_data": 733 }, "model": "2d/stone/copper_ingot" },
+        { "predicate": {"custom_model_data": 734 }, "model": "2d/stone/gold" },
+        { "predicate": {"custom_model_data": 735 }, "model": "2d/stone/scrap" },
+        { "predicate": {"custom_model_data": 736 }, "model": "2d/stone/zinc" },
+        { "predicate": {"custom_model_data": 737 }, "model": "2d/stone/zinc_ingot" },
+        { "predicate": {"custom_model_data": 738 }, "model": "item/iron_nugget" },
+
+        { "predicate": {"custom_model_data": 5001 }, "model": "2d/slot/douketsu/bat" },
+        { "predicate": {"custom_model_data": 5002 }, "model": "2d/slot/douketsu/bigrock" },
+        { "predicate": {"custom_model_data": 5003 }, "model": "2d/slot/douketsu/down" },
+        { "predicate": {"custom_model_data": 5004 }, "model": "2d/slot/douketsu/f" },
+        { "predicate": {"custom_model_data": 5005 }, "model": "2d/slot/douketsu/gas" },
+        { "predicate": {"custom_model_data": 5006 }, "model": "2d/slot/douketsu/silver" },
+        { "predicate": {"custom_model_data": 5007 }, "model": "2d/slot/douketsu/up" },
+        { "predicate": {"custom_model_data": 5008 }, "model": "2d/slot/douketsu/waterwave" }
         ]
 }

@@ -222,7 +222,14 @@
         { "predicate": {"custom_model_data": 477 }, "model": "guns/plasma_cannon_close" },
         { "predicate": {"custom_model_data": 478 }, "model": "guns/plasma_cannon_active" },
         { "predicate": {"custom_model_data": 479 }, "model": "guns/laser" },
-        { "predicate": {"custom_model_data": 480 }, "model": "item/iron_hoe" },
+        { "predicate": {"custom_model_data": 480 }, "model": "guns/m4_ads" },
+        { "predicate": {"custom_model_data": 481 }, "model": "guns/m4" },
+        { "predicate": {"custom_model_data": 482 }, "model": "guns/sr_ads" },
+        { "predicate": {"custom_model_data": 483 }, "model": "guns/sr" },
+        { "predicate": {"custom_model_data": 484 }, "model": "guns/madousyo" },
+        { "predicate": {"custom_model_data": 485 }, "model": "guns/ak47" },
+        { "predicate": {"custom_model_data": 486 }, "model": "guns/ak47_ads" },
+        { "predicate": {"custom_model_data": 487 }, "model": "item/iron_hoe" },
 
         { "predicate": {"custom_model_data": 511 }, "model": "2d/gun/old_laser" },
         { "predicate": {"custom_model_data": 512 }, "model": "guns/remingtonm700" },
@@ -256,6 +263,18 @@
         { "predicate": {"custom_model_data": 544 }, "model": "3d/hat/miniengel_set" },
         { "predicate": {"custom_model_data": 545 }, "model": "3d/hat/kumanju" },
         { "predicate": {"custom_model_data": 546 }, "model": "3d/hat/kumanju_big" },
-        { "predicate": {"custom_model_data": 547 }, "model": "item/iron_hoe" }
+        { "predicate": {"custom_model_data": 547 }, "model": "item/iron_hoe" },
+
+        { "predicate": {"custom_model_data": 548 }, "model": "3d/interior/pail" },
+        { "predicate": {"custom_model_data": 549 }, "model": "3d/interior/setsubunn_masu" },
+        { "predicate": {"custom_model_data": 550 }, "model": "item/drug/tabaco" },
+        { "predicate": {"custom_model_data": 551 }, "model": "3d/hat/parrot_headmask" },
+        { "predicate": {"custom_model_data": 552 }, "model": "item/iron_hoe" },
+
+        { "predicate": {"custom_model_data": 553 }, "model": "guns/alternator" },
+        { "predicate": {"custom_model_data": 554 }, "model": "guns/bat_wand" },
+        { "predicate": {"custom_model_data": 555 }, "model": "guns/blackthunder_katana" },
+        { "predicate": {"custom_model_data": 556 }, "model": "3d/interior/okeg" },
+        { "predicate": {"custom_model_data": 557 }, "model": "item/iron_hoe" }
         ]
 }
