@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "2d/stone_tex/gold"
+		"layer0": "2d/stone_tex/brass_ingot"
 	}
 }
