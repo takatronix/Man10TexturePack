@@ -283,7 +283,7 @@
         { "predicate": {"custom_model_data": 731 }, "model": "2d/stone/brass" },
         { "predicate": {"custom_model_data": 732 }, "model": "2d/stone/copper" },
         { "predicate": {"custom_model_data": 733 }, "model": "2d/stone/copper_ingot" },
-        { "predicate": {"custom_model_data": 734 }, "model": "2d/stone/gold" },
+        { "predicate": {"custom_model_data": 734 }, "model": "2d/stone/gold_crystal" },
         { "predicate": {"custom_model_data": 735 }, "model": "2d/stone/scrap" },
         { "predicate": {"custom_model_data": 736 }, "model": "2d/stone/zinc" },
         { "predicate": {"custom_model_data": 737 }, "model": "2d/stone/zinc_ingot" },
