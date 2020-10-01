@@ -300,7 +300,6 @@
         { "predicate": {"custom_model_data": 5006 }, "model": "2d/slot/douketu/silver" },
         { "predicate": {"custom_model_data": 5007 }, "model": "2d/slot/douketu/up" },
         { "predicate": {"custom_model_data": 5008 }, "model": "2d/slot/douketu/waterwave" },
-        { "predicate": {"custom_model_data": 5011 }, "model": "item/iron_nugget" },
 
         { "predicate": {"custom_model_data": 5009 }, "model": "2d/slot/wankosoba/soba" },
         { "predicate": {"custom_model_data": 5010 }, "model": "2d/slot/wankosoba/stomack" },
