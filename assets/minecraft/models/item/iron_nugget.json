@@ -303,6 +303,13 @@
 
         { "predicate": {"custom_model_data": 5009 }, "model": "2d/slot/wankosoba/soba" },
         { "predicate": {"custom_model_data": 5010 }, "model": "2d/slot/wankosoba/stomack" },
-        { "predicate": {"custom_model_data": 5011 }, "model": "item/iron_nugget" }
+        { "predicate": {"custom_model_data": 5011 }, "model": "item/iron_nugget" },
+
+        { "predicate": {"custom_model_data": 5012 }, "model": "2d/slot/zihanki/beer" },
+        { "predicate": {"custom_model_data": 5013 }, "model": "2d/slot/zihanki/doctor" },
+        { "predicate": {"custom_model_data": 5014 }, "model": "2d/slot/zihanki/monster" },
+        { "predicate": {"custom_model_data": 5015 }, "model": "2d/slot/zihanki/redtom" },
+        { "predicate": {"custom_model_data": 5016 }, "model": "2d/slot/zihanki/tomcola" },
+        { "predicate": {"custom_model_data": 5017 }, "model": "item/iron_nugget" }
         ]
 }
