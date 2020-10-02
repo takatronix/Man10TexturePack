@@ -533,5 +533,17 @@
     "sounds": [
       "slot/you"
     ]
+  },
+  "slot.zihanki_buy": {
+    "category": "master",
+    "sounds": [
+      "slot/zihanki_buy"
+    ]
+  },
+  "slot.zihanki_fall": {
+    "category": "master",
+    "sounds": [
+      "slot/zihanki_fall"
+    ]
   }
 }
