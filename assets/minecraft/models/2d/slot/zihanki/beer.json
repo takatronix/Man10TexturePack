@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "2d/slot/zihanki_tex/beer"
+		"layer0": "2d/slot_tex/zihanki_tex/beer"
 	}
 }
