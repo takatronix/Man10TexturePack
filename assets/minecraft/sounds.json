@@ -527,5 +527,11 @@
     "sounds": [
       "slot/sign_of_hero"
     ]
+  },
+  "slot.you": {
+    "category": "master",
+    "sounds": [
+      "slot/you"
+    ]
   }
 }
