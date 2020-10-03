@@ -300,8 +300,8 @@
         { "predicate": {"custom_model_data": 747 }, "model": "item/ender_pearl_rainbow" },
         { "predicate": {"custom_model_data": 748 }, "model": "item/eye" },
         { "predicate": {"custom_model_data": 748 }, "model": "2d/gun/bullet" },
-        { "predicate": {"custom_model_data": 748 }, "model": "2d/gun/bullet2" },
-        { "predicate": {"custom_model_data": 749 }, "model": "item/iron_nugget" },
+        { "predicate": {"custom_model_data": 749 }, "model": "2d/gun/bullet2" },
+        { "predicate": {"custom_model_data": 750 }, "model": "item/iron_nugget" },
 
         { "predicate": {"custom_model_data": 4998 }, "model": "2d/slot/douketsu/black_diamond" },
         { "predicate": {"custom_model_data": 4999 }, "model": "2d/slot/douketsu/copper" },
