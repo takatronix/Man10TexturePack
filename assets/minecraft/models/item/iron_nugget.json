@@ -297,7 +297,9 @@
         { "predicate": {"custom_model_data": 744 }, "model": "item/ender_pearl_white" },
         { "predicate": {"custom_model_data": 745 }, "model": "item/ender_pearl_yellow" },
         { "predicate": {"custom_model_data": 746 }, "model": "item/crow_feather" },
-        { "predicate": {"custom_model_data": 747 }, "model": "item/iron_nugget" },
+        { "predicate": {"custom_model_data": 747 }, "model": "item/ender_pearl_rainbow" },
+        { "predicate": {"custom_model_data": 748 }, "model": "item/eye" },
+        { "predicate": {"custom_model_data": 749 }, "model": "item/iron_nugget" },
 
         { "predicate": {"custom_model_data": 4998 }, "model": "2d/slot/douketsu/black_diamond" },
         { "predicate": {"custom_model_data": 4999 }, "model": "2d/slot/douketsu/copper" },
