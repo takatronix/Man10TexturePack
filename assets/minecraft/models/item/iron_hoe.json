@@ -278,6 +278,8 @@
         { "predicate": {"custom_model_data": 557 }, "model": "item/iron_hoe" },
 
         { "predicate": {"custom_model_data": 558 }, "model": "guns/pistol" },
-        { "predicate": {"custom_model_data": 559 }, "model": "item/iron_hoe" }
+        { "predicate": {"custom_model_data": 559 }, "model": "item/ak_magazine" },
+        { "predicate": {"custom_model_data": 560 }, "model": "item/handgun_magazine" },
+        { "predicate": {"custom_model_data": 561 }, "model": "item/iron_hoe" }
         ]
 }
