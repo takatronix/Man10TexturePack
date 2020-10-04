@@ -275,6 +275,9 @@
         { "predicate": {"custom_model_data": 554 }, "model": "guns/bat_wand" },
         { "predicate": {"custom_model_data": 555 }, "model": "guns/blackthunder_katana" },
         { "predicate": {"custom_model_data": 556 }, "model": "3d/interior/okeg" },
+        { "predicate": {"custom_model_data": 557 }, "model": "item/iron_hoe" },
+
+        { "predicate": {"custom_model_data": 558 }, "model": "guns/pistol" },
         { "predicate": {"custom_model_data": 557 }, "model": "item/iron_hoe" }
         ]
 }
