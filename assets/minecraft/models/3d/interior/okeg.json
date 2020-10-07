@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/longlongago/birch_door_bottom",
-		"1": "custom/longlongago/black_concrete",
-		"particle": "custom/longlongago/birch_door_bottom"
+		"0": "block/birch_door_bottom",
+		"1": "block/black_concrete",
+		"particle": "block/birch_door_bottom"
 	},
 	"elements": [
 		{

@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/longlongago/hay_block_side",
+		"0": "block/hay_block_side",
 		"1": "custom/longlongago/a",
-		"particle": "custom/longlongago/hay_block_side"
+		"particle": "block/hay_block_side"
 	},
 	"elements": [
 		{

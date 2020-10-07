@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/longlongago/dark_oak_log",
-		"1": "custom/longlongago/gold_block",
-		"particle": "custom/longlongago/dark_oak_log"
+		"0": "block/dark_oak_log",
+		"1": "block/gold_block",
+		"particle": "block/dark_oak_log"
 	},
 	"elements": [
 		{
