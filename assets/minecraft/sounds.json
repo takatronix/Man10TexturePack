@@ -545,5 +545,17 @@
     "sounds": [
       "slot/zihanki_fall"
     ]
+  },
+  "shoot.m82": {
+    "category": "master",
+    "sounds": [
+      "shoot/m82"
+    ]
+  },
+  "shoot.carbine": {
+    "category": "master",
+    "sounds": [
+      "shoot/carbine"
+    ]
   }
 }
