@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/shingengou",
+		"0": "custom/longlongago/shingengou",
 		"1": "block/cartography_table_side3",
 		"particle": "block/shingengou"
 	},

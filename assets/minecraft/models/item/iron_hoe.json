@@ -280,6 +280,11 @@
         { "predicate": {"custom_model_data": 558 }, "model": "guns/pistol" },
         { "predicate": {"custom_model_data": 559 }, "model": "item/ak_magazine" },
         { "predicate": {"custom_model_data": 560 }, "model": "item/handgun_magazine" },
-        { "predicate": {"custom_model_data": 561 }, "model": "item/iron_hoe" }
+        { "predicate": {"custom_model_data": 561 }, "model": "3d/mankin1" },
+        { "predicate": {"custom_model_data": 562 }, "model": "3d/mankin2" },
+        { "predicate": {"custom_model_data": 563 }, "model": "3d/mankin3" },
+        { "predicate": {"custom_model_data": 564 }, "model": "3d/katanaww" },
+        { "predicate": {"custom_model_data": 565 }, "model": "3d/reiwaman10" },
+        { "predicate": {"custom_model_data": 566 }, "model": "item/iron_hoe" }
         ]
 }
