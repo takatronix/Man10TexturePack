@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/longlongago/red_concrete",
-		"1": "custom/longlongago/iron_block",
-		"2": "custom/longlongago/light_gray_wool",
-		"3": "custom/longlongago/black_wool",
-		"particle": "custom/longlongago/red_concrete"
+		"0": "block/red_concrete",
+		"1": "block/iron_block",
+		"2": "block/light_gray_wool",
+		"3": "block/black_wool",
+		"particle": "block/red_concrete"
 	},
 	"elements": [
 		{
