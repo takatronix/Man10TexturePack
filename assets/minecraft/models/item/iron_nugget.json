@@ -324,16 +324,6 @@
         { "predicate": {"custom_model_data": 5014 }, "model": "2d/slot/zihanki/monster" },
         { "predicate": {"custom_model_data": 5015 }, "model": "2d/slot/zihanki/redtom" },
         { "predicate": {"custom_model_data": 5016 }, "model": "2d/slot/zihanki/tomcola" },
-        { "predicate": {"custom_model_data": 5017 }, "model": "item/iron_nugget" },
-        
-        { "predicate": {"custom_model_data": 6001 }, "model": "2d/slot/higurashi/slot_big_higurashi" },
-        { "predicate": {"custom_model_data": 6002 }, "model": "2d/slot/higurashi/slot_reg_higurashi" },
-        { "predicate": {"custom_model_data": 6003 }, "model": "2d/slot/higurashi/slot_bell_higurashi" },
-        { "predicate": {"custom_model_data": 6004 }, "model": "2d/slot/higurashi/slot_cherry_higurashi" },
-        { "predicate": {"custom_model_data": 6005 }, "model": "2d/slot/higurashi/slot_nazo_higurashi" },
-        { "predicate": {"custom_model_data": 6006 }, "model": "2d/slot/higurashi/slot_replay_higurashi" },
-        { "predicate": {"custom_model_data": 6007 }, "model": "2d/slot/higurashi/slot_watermelon_higurashi" },
-        { "predicate": {"custom_model_data": 6008 }, "model": "2d/slot/higurashi/slot_nata_higurashi" },
-        { "predicate": {"custom_model_data": 6009 }, "model": "item/iron_nugget" }
+        { "predicate": {"custom_model_data": 5017 }, "model": "item/iron_nugget" }
         ]
 }
