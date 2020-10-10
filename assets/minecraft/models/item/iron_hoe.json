@@ -251,7 +251,7 @@
         { "predicate": {"custom_model_data": 529 }, "model": "item/iron_hoe" },
 
         { "predicate": {"custom_model_data": 535 }, "model": "guns/handgun" },
-        { "predicate": {"custom_model_data": 536 }, "model": "guns/katanaww" },
+        { "predicate": {"custom_model_data": 536 }, "model": "guns/handgun" },
         { "predicate": {"custom_model_data": 537 }, "model": "guns/ghostsword" },
         { "predicate": {"custom_model_data": 538 }, "model": "guns/around_calibarn" },
         { "predicate": {"custom_model_data": 539 }, "model": "3d/shark" },
@@ -275,6 +275,17 @@
         { "predicate": {"custom_model_data": 554 }, "model": "guns/bat_wand" },
         { "predicate": {"custom_model_data": 555 }, "model": "guns/blackthunder_katana" },
         { "predicate": {"custom_model_data": 556 }, "model": "3d/interior/okeg" },
-        { "predicate": {"custom_model_data": 557 }, "model": "item/iron_hoe" }
+        { "predicate": {"custom_model_data": 557 }, "model": "item/iron_hoe" },
+
+        { "predicate": {"custom_model_data": 558 }, "model": "guns/pistol" },
+        { "predicate": {"custom_model_data": 559 }, "model": "item/ak_magazine" },
+        { "predicate": {"custom_model_data": 560 }, "model": "item/handgun_magazine" },
+        { "predicate": {"custom_model_data": 561 }, "model": "3d/hat/mankin" },
+        { "predicate": {"custom_model_data": 562 }, "model": "3d/hat/mankin2" },
+        { "predicate": {"custom_model_data": 563 }, "model": "3d/hat/mankin3" },
+        { "predicate": {"custom_model_data": 564 }, "model": "3d/katanaww" },
+        { "predicate": {"custom_model_data": 565 }, "model": "3d/reiwaman10" },
+        { "predicate": {"custom_model_data": 566 }, "model": "3d/longinus" },
+        { "predicate": {"custom_model_data": 567 }, "model": "item/iron_hoe" }
         ]
 }

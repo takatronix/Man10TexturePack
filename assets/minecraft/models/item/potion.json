@@ -22,6 +22,13 @@
         { "predicate": {"custom_model_data": 23}, "model" : "3d/madbull"},
         { "predicate": {"custom_model_data": 24}, "model" : "3d/monster"},
         { "predicate": {"custom_model_data": 25}, "model" : "3d/tomcola"},
-        { "predicate": {"custom_model_data": 26}, "model" : "3d/tomcola_0"}
+        { "predicate": {"custom_model_data": 26}, "model" : "3d/tomcola_0"},
+
+        { "predicate": {"custom_model_data": 27 }, "model": "2d/slot/zihanki/beer" },
+        { "predicate": {"custom_model_data": 28 }, "model": "2d/slot/zihanki/doctor" },
+        { "predicate": {"custom_model_data": 29 }, "model": "2d/slot/zihanki/monster" },
+        { "predicate": {"custom_model_data": 30 }, "model": "2d/slot/zihanki/redtom" },
+        { "predicate": {"custom_model_data": 31 }, "model": "2d/slot/zihanki/tomcola" },
+        { "predicate": {"custom_model_data": 32 }, "model": "item/iron_nugget" }
         ]
     }

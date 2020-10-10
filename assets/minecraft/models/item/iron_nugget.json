@@ -289,6 +289,20 @@
         { "predicate": {"custom_model_data": 737 }, "model": "2d/stone/zinc_ingot" },
         { "predicate": {"custom_model_data": 738 }, "model": "item/iron_nugget" },
 
+        { "predicate": {"custom_model_data": 739 }, "model": "item/ender_pearl_black" },
+        { "predicate": {"custom_model_data": 740 }, "model": "item/ender_pearl_blue" },
+        { "predicate": {"custom_model_data": 741 }, "model": "item/ender_pearl_lightblue" },
+        { "predicate": {"custom_model_data": 742 }, "model": "item/ender_pearl_perple" },
+        { "predicate": {"custom_model_data": 743 }, "model": "item/ender_pearl_red" },
+        { "predicate": {"custom_model_data": 744 }, "model": "item/ender_pearl_white" },
+        { "predicate": {"custom_model_data": 745 }, "model": "item/ender_pearl_yellow" },
+        { "predicate": {"custom_model_data": 746 }, "model": "item/crow_feather" },
+        { "predicate": {"custom_model_data": 747 }, "model": "item/ender_pearl_rainbow" },
+        { "predicate": {"custom_model_data": 748 }, "model": "item/eye" },
+        { "predicate": {"custom_model_data": 748 }, "model": "2d/gun/bullet" },
+        { "predicate": {"custom_model_data": 749 }, "model": "2d/gun/bullet2" },
+        { "predicate": {"custom_model_data": 750 }, "model": "item/iron_nugget" },
+
         { "predicate": {"custom_model_data": 4998 }, "model": "2d/slot/douketsu/black_diamond" },
         { "predicate": {"custom_model_data": 4999 }, "model": "2d/slot/douketsu/copper" },
         { "predicate": {"custom_model_data": 5000 }, "model": "2d/slot/douketsu/gold" },    
@@ -303,6 +317,13 @@
 
         { "predicate": {"custom_model_data": 5009 }, "model": "2d/slot/wankosoba/soba" },
         { "predicate": {"custom_model_data": 5010 }, "model": "2d/slot/wankosoba/stomack" },
-        { "predicate": {"custom_model_data": 5011 }, "model": "item/iron_nugget" }
+        { "predicate": {"custom_model_data": 5011 }, "model": "item/iron_nugget" },
+
+        { "predicate": {"custom_model_data": 5012 }, "model": "2d/slot/zihanki/beer" },
+        { "predicate": {"custom_model_data": 5013 }, "model": "2d/slot/zihanki/doctor" },
+        { "predicate": {"custom_model_data": 5014 }, "model": "2d/slot/zihanki/monster" },
+        { "predicate": {"custom_model_data": 5015 }, "model": "2d/slot/zihanki/redtom" },
+        { "predicate": {"custom_model_data": 5016 }, "model": "2d/slot/zihanki/tomcola" },
+        { "predicate": {"custom_model_data": 5017 }, "model": "item/iron_nugget" }
         ]
 }

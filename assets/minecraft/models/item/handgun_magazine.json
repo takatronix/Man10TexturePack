@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "2d/gun_tex/handgun_magazine"
+	}
+}
