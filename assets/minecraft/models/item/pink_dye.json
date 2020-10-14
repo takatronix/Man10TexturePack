@@ -1,0 +1,10 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/pink_dye"
+    },
+         "overrides": [
+        { "predicate": {"damage": 0}, "model" : "item/pink_dye"},
+        { "predicate": {"custom_model_data": 10 }, "model": "item/debtbill" }
+        ]
+    }
