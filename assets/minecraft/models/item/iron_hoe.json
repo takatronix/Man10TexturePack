@@ -286,6 +286,13 @@
         { "predicate": {"custom_model_data": 564 }, "model": "3d/katanaww" },
         { "predicate": {"custom_model_data": 565 }, "model": "3d/reiwaman10" },
         { "predicate": {"custom_model_data": 566 }, "model": "3d/longinus" },
-        { "predicate": {"custom_model_data": 567 }, "model": "item/iron_hoe" }
+        { "predicate": {"custom_model_data": 567 }, "model": "item/iron_hoe" },
+
+        { "predicate": {"custom_model_data": 569 }, "model": "3d/Vending_machine" },
+        { "predicate": {"custom_model_data": 570 }, "model": "3d/flash_bang" },
+        { "predicate": {"custom_model_data": 571 }, "model": "3d/mossy_takatronix" },
+        { "predicate": {"custom_model_data": 572 }, "model": "3d/kageroutoodorumiko" },
+        { "predicate": {"custom_model_data": 573 }, "model": "3d/shadow_scythe" },
+        { "predicate": {"custom_model_data": 574 }, "model": "item/iron_hoe" }
         ]
 }
