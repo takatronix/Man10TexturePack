@@ -288,7 +288,7 @@
         { "predicate": {"custom_model_data": 566 }, "model": "3d/longinus" },
         { "predicate": {"custom_model_data": 567 }, "model": "item/iron_hoe" },
 
-        { "predicate": {"custom_model_data": 569 }, "model": "3d/Vending_machine" },
+        { "predicate": {"custom_model_data": 569 }, "model": "3d/vending_machine" },
         { "predicate": {"custom_model_data": 570 }, "model": "3d/flash_bang" },
         { "predicate": {"custom_model_data": 571 }, "model": "3d/mossy_takatronix" },
         { "predicate": {"custom_model_data": 572 }, "model": "3d/kageroutoodorumiko" },
