@@ -5,7 +5,7 @@
     },
          "overrides": [
         { "predicate": {"damage": 0}, "model" : "item/diamond_hoe"},
-        { "predicate": {"custom_model_data": 10 }, "model": "3d/hat/teemo_helmet" },
+        { "predicate": {"custom_model_data": 10 }, "model": "item/machine" },
         { "predicate": {"damage": 0.9795134443 }, "model": "guns/slingshot" }
         ]
     }
