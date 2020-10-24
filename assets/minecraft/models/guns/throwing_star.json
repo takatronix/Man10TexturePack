@@ -3,7 +3,8 @@
 	"textures": {
 		"1": "block/coal_block",
 		"3": "block/cobblestone",
-		"4": "block/bedrock"
+		"4": "block/bedrock",
+		"particle": "block/coal_black"
 	},
 	"elements": [
 		{
