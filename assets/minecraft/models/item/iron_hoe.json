@@ -301,6 +301,14 @@
         { "predicate": {"custom_model_data": 578 }, "model": "3d/hat/dog_filter" },
         { "predicate": {"custom_model_data": 579 }, "model": "3d/ban_hammer" },
         { "predicate": {"custom_model_data": 580 }, "model": "3d/magicwand" },
-        { "predicate": {"custom_model_data": 581 }, "model": "item/iron_hoe" }
+        { "predicate": {"custom_model_data": 581 }, "model": "item/iron_hoe" },
+
+        { "predicate": {"custom_model_data": 582 }, "model": "3d/vine_wand" },
+        { "predicate": {"custom_model_data": 583 }, "model": "3d/iron_vault" },
+        { "predicate": {"custom_model_data": 584 }, "model": "3d/hat/zombie_doll"},
+        { "predicate": {"custom_model_data": 585 }, "model": "3d/pipokun"},
+        { "predicate": {"custom_model_data": 586 }, "model": "3d/hat/pipokunhead"},
+        { "predicate": {"custom_model_data": 587 }, "model": "3d/powerstoneblock"},
+        { "predicate": {"custom_model_data": 588 }, "model": "item/iron_hoe" }                 
         ]
 }
