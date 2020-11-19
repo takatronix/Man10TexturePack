@@ -309,6 +309,26 @@
         { "predicate": {"custom_model_data": 585 }, "model": "3d/pipokun"},
         { "predicate": {"custom_model_data": 586 }, "model": "3d/hat/pipokunhead"},
         { "predicate": {"custom_model_data": 587 }, "model": "3d/powerstoneblock"},
-        { "predicate": {"custom_model_data": 588 }, "model": "item/iron_hoe" }                 
+        { "predicate": {"custom_model_data": 588 }, "model": "item/iron_hoe" },
+        
+        { "predicate": {"custom_model_data": 589 }, "model": "3d/smith_hammer" },
+        { "predicate": {"custom_model_data": 590 }, "model": "3d/ice_lod" },
+        { "predicate": {"custom_model_data": 591 }, "model": "3d/king_illager"},
+        { "predicate": {"custom_model_data": 592 }, "model": "3d/war_hammer"},
+        { "predicate": {"custom_model_data": 593 }, "model": "3d/soldier_sword"},
+        { "predicate": {"custom_model_data": 594 }, "model": "3d/nether_rifle"},
+        { "predicate": {"custom_model_data": 595 }, "model": "3d/snow_rabbit" },
+        { "predicate": {"custom_model_data": 596 }, "model": "3d/assault_rifle" },
+        { "predicate": {"custom_model_data": 597 }, "model": "3d/crimsonblade" },
+        { "predicate": {"custom_model_data": 598 }, "model": "3d/soldier_shield"},
+        { "predicate": {"custom_model_data": 599 }, "model": "3d/goggles_helmet"},
+        { "predicate": {"custom_model_data": 600 }, "model": "3d/dragon_fang"},
+        { "predicate": {"custom_model_data": 601 }, "model": "3d/scythe"},
+        { "predicate": {"custom_model_data": 602 }, "model": "3d/battleaxe"},
+        { "predicate": {"custom_model_data": 603 }, "model": "3d/broad_sword"},
+        { "predicate": {"custom_model_data": 604 }, "model": "3d/hat/feather_hat"},
+        { "predicate": {"custom_model_data": 605 }, "model": "3d/variable_blade_melee"},
+        { "predicate": {"custom_model_data": 606 }, "model": "3d/variable_blade_range"},  
+        { "predicate": {"custom_model_data": 607 }, "model": "item/iron_hoe" }
         ]
 }

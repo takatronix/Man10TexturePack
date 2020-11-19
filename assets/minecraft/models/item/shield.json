@@ -57,6 +57,9 @@
         { "predicate": {"custom_model_data": 13,"blocking": 1}, "model" : "guns/nabebuta_shield_block"},
 
         { "predicate": {"custom_model_data": 14}, "model" : "guns/grand_buster"},
-        { "predicate": {"custom_model_data": 14,"blocking": 1}, "model" : "guns/grand_buster_block"}
+        { "predicate": {"custom_model_data": 14,"blocking": 1}, "model" : "guns/grand_buster_block"},
+
+        { "predicate": {"custom_model_data": 15}, "model" : "3d/soldier_shield"},
+        { "predicate": {"custom_model_data": 15,"blocking": 1}, "model" : "3d/soldier_shield_block"}
     ]
 }
