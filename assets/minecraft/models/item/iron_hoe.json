@@ -329,6 +329,27 @@
         { "predicate": {"custom_model_data": 604 }, "model": "3d/hat/feather_hat"},
         { "predicate": {"custom_model_data": 605 }, "model": "3d/variable_blade_melee"},
         { "predicate": {"custom_model_data": 606 }, "model": "3d/variable_blade_range"},  
-        { "predicate": {"custom_model_data": 607 }, "model": "item/iron_hoe" }
+        { "predicate": {"custom_model_data": 607 }, "model": "item/iron_hoe" },
+
+        { "predicate": {"custom_model_data": 608 }, "model": "3d/man10"},
+        { "predicate": {"custom_model_data": 609 }, "model": "3d/foxmask"},
+        { "predicate": {"custom_model_data": 610 }, "model": "3d/darkangel_wing"},
+        { "predicate": {"custom_model_data": 611 }, "model": "3d/xmaswreath"},
+        { "predicate": {"custom_model_data": 612 }, "model": "3d/xmastree"},
+        { "predicate": {"custom_model_data": 613 }, "model": "3d/watermelon_sword"},
+        { "predicate": {"custom_model_data": 614 }, "model": "3d/tiara"},  
+        { "predicate": {"custom_model_data": 615 }, "model": "3d/thinking" },
+        { "predicate": {"custom_model_data": 616 }, "model": "3d/submachine_gun"},
+        { "predicate": {"custom_model_data": 617 }, "model": "3d/sori"},
+        { "predicate": {"custom_model_data": 618 }, "model": "3d/snow_hair_ornaments"},
+        { "predicate": {"custom_model_data": 619 }, "model": "3d/rps_super"},  
+        { "predicate": {"custom_model_data": 620 }, "model": "3d/redkey" },
+        { "predicate": {"custom_model_data": 621 }, "model": "3d/nethergun"},
+        { "predicate": {"custom_model_data": 622 }, "model": "3d/merrychristmas"},
+        { "predicate": {"custom_model_data": 623 }, "model": "3d/hunter_rifle"},
+        { "predicate": {"custom_model_data": 624 }, "model": "3d/hookshot"},  
+        { "predicate": {"custom_model_data": 625 }, "model": "3d/gunblade" },
+        { "predicate": {"custom_model_data": 626 }, "model": "3d/ganache" },
+        { "predicate": {"custom_model_data": 627 }, "model": "item/iron_hoe" }
         ]
 }

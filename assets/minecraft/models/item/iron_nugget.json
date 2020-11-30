@@ -303,6 +303,10 @@
         { "predicate": {"custom_model_data": 749 }, "model": "2d/gun/bullet2" },
         { "predicate": {"custom_model_data": 750 }, "model": "item/iron_nugget" },
 
+        { "predicate": {"custom_model_data": 751 }, "model": "3d/otoshidama" },
+        { "predicate": {"custom_model_data": 752 }, "model": "3d/nengajo" },
+        { "predicate": {"custom_model_data": 753 }, "model": "item/iron_nugget" },
+
         { "predicate": {"custom_model_data": 4998 }, "model": "2d/slot/douketsu/black_diamond" },
         { "predicate": {"custom_model_data": 4999 }, "model": "2d/slot/douketsu/copper" },
         { "predicate": {"custom_model_data": 5000 }, "model": "2d/slot/douketsu/gold" },    
