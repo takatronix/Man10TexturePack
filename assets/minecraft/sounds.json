@@ -557,5 +557,17 @@
     "sounds": [
       "shoot/carbine"
     ]
+  },
+  "slot.jinglebells_long": {
+    "category": "master",
+    "sounds": [
+      "slot/jinglebells_long"
+    ]
+  },
+  "slot.jinglebells_short": {
+    "category": "master",
+    "sounds": [
+      "slot/jinglebells_short"
+    ]
   }
 }
