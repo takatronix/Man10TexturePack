@@ -363,6 +363,12 @@
         { "predicate": {"custom_model_data": 636 }, "model": "3d/hat/xmas_snowman_hat" },
         { "predicate": {"custom_model_data": 637 }, "model": "3d/hat/santa_set" },
         { "predicate": {"custom_model_data": 638 }, "model": "3d/hat/mini_santa" },
-        { "predicate": {"custom_model_data": 639 }, "model": "item/iron_hoe" }
+        { "predicate": {"custom_model_data": 639 }, "model": "3d/man10_sword"},  
+        { "predicate": {"custom_model_data": 640 }, "model": "3d/avalon_sword" },
+        { "predicate": {"custom_model_data": 641 }, "model": "3d/myrtenaster" },
+        { "predicate": {"custom_model_data": 642 }, "model": "3d/cassius" },
+        { "predicate": {"custom_model_data": 643 }, "model": "3d/byakkotou" },
+        { "predicate": {"custom_model_data": 644 }, "model": "3d/interior/sweets_showcase" },
+        { "predicate": {"custom_model_data": 645 }, "model": "item/iron_hoe" }
         ]
 }
