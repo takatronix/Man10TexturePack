@@ -307,6 +307,14 @@
         { "predicate": {"custom_model_data": 752 }, "model": "3d/nengajo" },
         { "predicate": {"custom_model_data": 753 }, "model": "item/iron_nugget" },
 
+        { "predicate": {"custom_model_data": 750 }, "model": "3d/xmas_candle" },
+        { "predicate": {"custom_model_data": 751 }, "model": "3d/xmas_box_r" },
+        { "predicate": {"custom_model_data": 752 }, "model": "3d/xmas_box_o" },
+        { "predicate": {"custom_model_data": 753 }, "model": "3d/xmas_box_s" },
+        { "predicate": {"custom_model_data": 754 }, "model": "3d/ginger_bread" },
+        { "predicate": {"custom_model_data": 755 }, "model": "item/iron_nugget" },
+
+
         { "predicate": {"custom_model_data": 4998 }, "model": "2d/slot/douketsu/black_diamond" },
         { "predicate": {"custom_model_data": 4999 }, "model": "2d/slot/douketsu/copper" },
         { "predicate": {"custom_model_data": 5000 }, "model": "2d/slot/douketsu/gold" },    

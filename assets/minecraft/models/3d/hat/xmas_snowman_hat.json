@@ -1,0 +1,71 @@
+{
+	"credit": "sedona_blockbnech",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "custom/sedona/xmas_snowman_hat"
+	},
+	"elements": [
+		{
+			"from": [3, 8, 3],
+			"to": [13, 10, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 4, 5, 5], "texture": "#0"},
+				"east": {"uv": [0, 4, 5, 5], "texture": "#0"},
+				"south": {"uv": [0, 4, 5, 5], "texture": "#0"},
+				"west": {"uv": [0, 4, 5, 5], "texture": "#0"},
+				"up": {"uv": [0, 5, 5, 10], "texture": "#0"},
+				"down": {"uv": [0, 10, 5, 15], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4.5, 10, 4.5],
+			"to": [11.5, 18, 11.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 10.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 3.5, 4], "texture": "#0"},
+				"east": {"uv": [0, 0, 3.5, 4], "texture": "#0"},
+				"south": {"uv": [0, 0, 3.5, 4], "texture": "#0"},
+				"west": {"uv": [0, 0, 3.5, 4], "texture": "#0"},
+				"up": {"uv": [3.5, 0, 7, 3.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [70, 0, 0],
+			"translation": [0, 0, -4],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [70, 0, 0],
+			"translation": [0, 0, -4],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"firstperson_righthand": {
+			"translation": [0, -2, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, -2, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"ground": {
+			"translation": [0, 4, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"gui": {
+			"rotation": [30, 45, 0],
+			"translation": [0, -4.5, 0]
+		},
+		"head": {
+			"rotation": [20, 0, 10],
+			"translation": [-2, 4, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"fixed": {
+			"translation": [0, -9, -9],
+			"scale": [2, 2, 2]
+		}
+	}
+}

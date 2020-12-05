@@ -350,6 +350,19 @@
         { "predicate": {"custom_model_data": 624 }, "model": "3d/hookshot"},  
         { "predicate": {"custom_model_data": 625 }, "model": "3d/gunblade" },
         { "predicate": {"custom_model_data": 626 }, "model": "3d/ganache" },
-        { "predicate": {"custom_model_data": 627 }, "model": "item/iron_hoe" }
+        { "predicate": {"custom_model_data": 627 }, "model": "item/iron_hoe" },
+
+        { "predicate": {"custom_model_data": 628 }, "model": "3d/xmas_wond"},
+        { "predicate": {"custom_model_data": 629 }, "model": "3d/xmas_bee"},
+        { "predicate": {"custom_model_data": 630 }, "model": "3d/xmas_sword"},
+        { "predicate": {"custom_model_data": 631 }, "model": "3d/xmas_bag"},  
+        { "predicate": {"custom_model_data": 632 }, "model": "3d/xmas_bell" },
+        { "predicate": {"custom_model_data": 633 }, "model": "3d/xmas_boots" },
+        { "predicate": {"custom_model_data": 634 }, "model": "3d/snow_globe" },
+        { "predicate": {"custom_model_data": 635 }, "model": "3d/xmas_scarf" },
+        { "predicate": {"custom_model_data": 636 }, "model": "3d/hat/xmas_snowman_hat" },
+        { "predicate": {"custom_model_data": 637 }, "model": "3d/hat/santa_set" },
+        { "predicate": {"custom_model_data": 638 }, "model": "3d/hat/mini_santa" },
+        { "predicate": {"custom_model_data": 639 }, "model": "item/iron_hoe" }
         ]
 }
