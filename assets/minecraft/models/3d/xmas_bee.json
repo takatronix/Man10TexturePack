@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Kanranseki",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "entity/bee/bee",
 		"1": "block/red_wool",
@@ -71,8 +71,8 @@
 			}
 		},
 		{
-			"from": [5.9, 12, 6.5],
-			"to": [12.1, 12, 10.5],
+			"from": [5.9, 12.001, 6.5],
+			"to": [12.1, 12.001, 10.5],
 			"faces": {
 				"north": {"uv": [0, 0, 6.2, 0], "texture": "#2"},
 				"east": {"uv": [0, 0, 4, 0], "texture": "#2"},
