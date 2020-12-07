@@ -46,8 +46,8 @@
         { "predicate": {"custom_model_data": 59}, "model": "drug/strange/rainbow" },
         { "predicate": {"custom_model_data": 60}, "model": "drug/strange/strange_eyes_lvone" },
         { "predicate": {"custom_model_data": 61}, "model": "drug/strange/strange_eyes_lvtwo" },
-
-        { "predicate": {"custom_model_data": 62}, "model" : "item/iron_nugget"},
+        { "predicate": {"custom_model_data": 62}, "model": "drug/strange/flash" },
+        { "predicate": {"custom_model_data": 63}, "model" : "item/iron_nugget"},
 
 
 
