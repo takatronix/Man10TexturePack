@@ -36,6 +36,9 @@
         { "predicate": {"custom_model_data": 39}, "model" : "food/sasimi_tuna"},
         { "predicate": {"custom_model_data": 40}, "model" : "food/shirokuma_icecleam"},
         { "predicate": {"custom_model_data": 41}, "model" : "food/donuts"},
-        { "predicate": {"custom_model_data": 42}, "model" : "food/baked_potato"}
+        { "predicate": {"custom_model_data": 42}, "model" : "item/baked_potato"},
+
+        { "predicate": {"custom_model_data": 43}, "model" : "3d/chocolate_ita"},
+        { "predicate": {"custom_model_data": 44}, "model" : "item/baked_potato"}
         ]
 }

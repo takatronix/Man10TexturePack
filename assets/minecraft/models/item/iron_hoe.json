@@ -369,6 +369,22 @@
         { "predicate": {"custom_model_data": 642 }, "model": "3d/cassius" },
         { "predicate": {"custom_model_data": 643 }, "model": "3d/byakkotou" },
         { "predicate": {"custom_model_data": 644 }, "model": "3d/interior/sweets_showcase" },
-        { "predicate": {"custom_model_data": 645 }, "model": "item/iron_hoe" }
+        { "predicate": {"custom_model_data": 645 }, "model": "item/iron_hoe" },
+
+        { "predicate": {"custom_model_data": 646 }, "model": "3d/hat/police_hat" },
+        { "predicate": {"custom_model_data": 647 }, "model": "3d/treasurechest_gold" },
+        { "predicate": {"custom_model_data": 648 }, "model": "3d/treasurechest_iron" },
+        { "predicate": {"custom_model_data": 649 }, "model": "3d/treasurechest_wood"},  
+        { "predicate": {"custom_model_data": 650 }, "model": "3d/high_grade_wand" },
+        { "predicate": {"custom_model_data": 651 }, "model": "3d/the_end_of_the_wolf" },
+        { "predicate": {"custom_model_data": 652 }, "model": "3d/blue_sword" },
+        { "predicate": {"custom_model_data": 653 }, "model": "3d/case_chocolate" },
+        { "predicate": {"custom_model_data": 654 }, "model": "3d/heart_chocolate" },
+        { "predicate": {"custom_model_data": 655 }, "model": "3d/clock"},  
+        { "predicate": {"custom_model_data": 656 }, "model": "3d/white_wand" },
+        { "predicate": {"custom_model_data": 657 }, "model": "guns/pumpkin_launcher" },
+        { "predicate": {"custom_model_data": 658 }, "model": "3d/the_end_of_the_wolf" },
+        { "predicate": {"custom_model_data": 659 }, "model": "guns/flamethrower" },
+        { "predicate": {"custom_model_data": 660 }, "model": "item/iron_hoe" }
         ]
 }
