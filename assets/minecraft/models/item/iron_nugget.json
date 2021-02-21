@@ -328,8 +328,8 @@
         { "predicate": {"custom_model_data": 767 }, "model": "item/card_mame" },
         { "predicate": {"custom_model_data": 768 }, "model": "item/card_sei" },
         { "predicate": {"custom_model_data": 769 }, "model": "item/gom" },
-        { "predicate": {"custom_model_data": 770 }, "model": "item/iron_nugget" },
-
+        { "predicate": {"custom_model_data": 770 }, "model": "item/cardkey" },
+        { "predicate": {"custom_model_data": 771 }, "model": "item/iron_nugget" },
 
         { "predicate": {"custom_model_data": 4998 }, "model": "2d/slot/douketsu/black_diamond" },
         { "predicate": {"custom_model_data": 4999 }, "model": "2d/slot/douketsu/copper" },
