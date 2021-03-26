@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/hopper"
+    },
+         "overrides": [
+        { "predicate": {"custom_model_data": 10}, "model" : "block/upper"},
+        { "predicate": {"custom_model_data": 11}, "model" : "block/upper_side"}
+        ]
+}

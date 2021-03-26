@@ -1,9 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/apple"
-    },
-         "overrides": [
-        { "predicate": {"custom_model_data": 10}, "model" : "food/poison_apple"}
-        ]
-}
