@@ -4,8 +4,7 @@
         "layer0": "item/gold_nugget"
     },
     "overrides": [
-        {"predicate": {"custom_model_data":777}, "model": "item/facedowncard"},
-
+		
 		{"predicate": {"custom_model_data":1}, "model": "item/card_spade_1"},
 		{"predicate": {"custom_model_data":2}, "model": "item/card_spade_2"},
 		{"predicate": {"custom_model_data":3}, "model": "item/card_spade_3"},
@@ -64,7 +63,9 @@
 		{"predicate": {"custom_model_data":310}, "model": "item/card_club_10"},
 		{"predicate": {"custom_model_data":311}, "model": "item/card_club_11"},
 		{"predicate": {"custom_model_data":312}, "model": "item/card_club_12"},
-		{"predicate": {"custom_model_data":313}, "model": "item/card_club_13"}
+		{"predicate": {"custom_model_data":313}, "model": "item/card_club_13"},
+
+		{"predicate": {"custom_model_data":777}, "model": "item/facedowncard"}
 		
     ]
 }
