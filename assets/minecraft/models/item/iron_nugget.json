@@ -352,6 +352,21 @@
         { "predicate": {"custom_model_data": 5014 }, "model": "2d/slot/zihanki/monster" },
         { "predicate": {"custom_model_data": 5015 }, "model": "2d/slot/zihanki/redtom" },
         { "predicate": {"custom_model_data": 5016 }, "model": "2d/slot/zihanki/tomcola" },
-        { "predicate": {"custom_model_data": 5017 }, "model": "item/iron_nugget" }
+        { "predicate": {"custom_model_data": 5017 }, "model": "item/iron_nugget" },
+
+        { "predicate": {"custom_model_data": 5018 }, "model": "2d/slot/qawsedrftgyhujikolp/ana" },
+        { "predicate": {"custom_model_data": 5019 }, "model": "2d/slot/qawsedrftgyhujikolp/domo" },
+        { "predicate": {"custom_model_data": 5020 }, "model": "2d/slot/qawsedrftgyhujikolp/hage" },
+        { "predicate": {"custom_model_data": 5021 }, "model": "2d/slot/qawsedrftgyhujikolp/hagusa" },
+        { "predicate": {"custom_model_data": 5022 }, "model": "2d/slot/qawsedrftgyhujikolp/han" },
+        { "predicate": {"custom_model_data": 5023 }, "model": "2d/slot/qawsedrftgyhujikolp/ho" },
+        { "predicate": {"custom_model_data": 5024 }, "model": "2d/slot/qawsedrftgyhujikolp/kou" },
+        { "predicate": {"custom_model_data": 5025 }, "model": "2d/slot/qawsedrftgyhujikolp/motu" },
+        { "predicate": {"custom_model_data": 5026 }, "model": "2d/slot/qawsedrftgyhujikolp/nagi" },
+        { "predicate": {"custom_model_data": 5027 }, "model": "2d/slot/qawsedrftgyhujikolp/rui" },
+        { "predicate": {"custom_model_data": 5028 }, "model": "2d/slot/qawsedrftgyhujikolp/sa" },
+        { "predicate": {"custom_model_data": 5029 }, "model": "2d/slot/qawsedrftgyhujikolp/subaru" },
+        { "predicate": {"custom_model_data": 5030 }, "model": "2d/slot/qawsedrftgyhujikolp/un" },
+        { "predicate": {"custom_model_data": 5031 }, "model": "item/iron_nugget" }
         ]
 }

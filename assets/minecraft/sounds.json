@@ -569,5 +569,59 @@
     "sounds": [
       "slot/jinglebells_short"
     ]
+  },
+  "slot.banbado": {
+    "category": "master",
+    "sounds": [
+      "slot/banbado"
+    ]
+  },
+  "slot.seastory_bonus": {
+    "category": "master",
+    "sounds": [
+      "slot/seastory_bonus"
+    ]
+  },
+  "slot.seastory_spining": {
+    "category": "master",
+    "sounds": [
+      "slot/seastory_spining"
+    ]
+  },
+  "slot.drftg": {
+    "category": "master",
+    "sounds": [
+      "slot/drftg"
+    ]
+  },
+  "slot.qawse": {
+    "category": "master",
+    "sounds": [
+      "slot/qawse"
+    ]
+  },
+  "slot.impact": {
+    "category": "master",
+    "sounds": [
+      "slot/impact"
+    ]
+  },
+  "slot.impact2": {
+    "category": "master",
+    "sounds": [
+      "slot/impact2"
+    ]
+  },
+  "slot.impact3": {
+    "category": "master",
+    "sounds": [
+      "slot/impact3"
+    ]
+  },
+  "slot.yhuji": {
+    "category": "master",
+    "sounds": [
+      "slot/yhuji"
+    ]
   }
 }
