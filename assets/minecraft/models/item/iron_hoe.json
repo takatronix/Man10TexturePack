@@ -385,6 +385,18 @@
         { "predicate": {"custom_model_data": 657 }, "model": "guns/pumpkin_launcher" },
         { "predicate": {"custom_model_data": 658 }, "model": "3d/the_end_of_the_wolf" },
         { "predicate": {"custom_model_data": 659 }, "model": "guns/flamethrower" },
-        { "predicate": {"custom_model_data": 660 }, "model": "item/iron_hoe" }
+        { "predicate": {"custom_model_data": 660 }, "model": "item/iron_hoe" },
+
+        { "predicate": {"custom_model_data": 661 }, "model": "3d/okonomiyaki_" },
+        { "predicate": {"custom_model_data": 662 }, "model": "3d/batta0128" },
+        { "predicate": {"custom_model_data": 663 }, "model": "3d/tenntenn421" },
+        { "predicate": {"custom_model_data": 664 }, "model": "3d/kanranseki" },
+        { "predicate": {"custom_model_data": 665 }, "model": "3d/okiraku_mine" },
+        { "predicate": {"custom_model_data": 666 }, "model": "3d/takatronix"},  
+        { "predicate": {"custom_model_data": 667 }, "model": "3d/sakura0397" },
+        { "predicate": {"custom_model_data": 668 }, "model": "3d/sho0" },
+        { "predicate": {"custom_model_data": 669 }, "model": "3d/ryotackey" },
+        { "predicate": {"custom_model_data": 670 }, "model": "3d/forest611" },
+        { "predicate": {"custom_model_data": 671 }, "model": "item/iron_hoe" }
         ]
 }
