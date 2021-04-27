@@ -428,6 +428,30 @@
         { "predicate": {"custom_model_data": 668 }, "model": "3d/sho0" },
         { "predicate": {"custom_model_data": 669 }, "model": "3d/ryotackey" },
         { "predicate": {"custom_model_data": 670 }, "model": "3d/forest611" },
-        { "predicate": {"custom_model_data": 671 }, "model": "item/iron_hoe" }
+        { "predicate": {"custom_model_data": 671 }, "model": "item/iron_hoe" },
+
+        { "predicate": {"custom_model_data": 672 }, "model": "3d/assasin_blade" },
+        { "predicate": {"custom_model_data": 673 }, "model": "3d/dark_blade" },
+        { "predicate": {"custom_model_data": 674 }, "model": "3d/hiland_axe" },
+        { "predicate": {"custom_model_data": 675 }, "model": "3d/man10plate" },
+        { "predicate": {"custom_model_data": 676 }, "model": "3d/unlucky_sword" },
+        { "predicate": {"custom_model_data": 677 }, "model": "3d/diamondblade"},  
+        { "predicate": {"custom_model_data": 678 }, "model": "3d/goldring" },
+        { "predicate": {"custom_model_data": 679 }, "model": "3d/spikesword" },
+        { "predicate": {"custom_model_data": 680 }, "model": "3d/blue_reverberation_sythe" },
+        { "predicate": {"custom_model_data": 681 }, "model": "3d/doom_gauntlet" },
+        { "predicate": {"custom_model_data": 682 }, "model": "3d/grief" },
+        { "predicate": {"custom_model_data": 683 }, "model": "3d/black_sword" },
+        { "predicate": {"custom_model_data": 684 }, "model": "3d/raygunmk2" },
+        { "predicate": {"custom_model_data": 685 }, "model": "3d/raygunmk2_ads" },
+        { "predicate": {"custom_model_data": 686 }, "model": "3d/wisdom_rod" },
+        { "predicate": {"custom_model_data": 687 }, "model": "3d/chinese_knife" },
+        { "predicate": {"custom_model_data": 688 }, "model": "3d/laser_axe"},  
+        { "predicate": {"custom_model_data": 689 }, "model": "3d/ied" },
+        { "predicate": {"custom_model_data": 690 }, "model": "3d/spear_the_gungnir" },
+        { "predicate": {"custom_model_data": 691 }, "model": "3d/antheque_piano" },
+        { "predicate": {"custom_model_data": 692 }, "model": "3d/sword__" },
+        { "predicate": {"custom_model_data": 693 }, "model": "3d/dark_repulser" },
+        { "predicate": {"custom_model_data": 694 }, "model": "item/iron_hoe" }
         ]
 }
