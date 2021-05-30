@@ -3,8 +3,7 @@
     "textures": {
         "layer0": "item/diamond_hoe"
     },
-         "overrides": [
-        { "predicate": {"damage": 0}, "model" : "item/diamond_hoe"},
-        { "predicate": {"custom_model_data": 10 }, "model": "item/machine" },
-        ]
-    }
+    "overrides": [
+        { "predicate": {"custom_model_data": 10 }, "model": "item/machine" }
+    ]
+}
