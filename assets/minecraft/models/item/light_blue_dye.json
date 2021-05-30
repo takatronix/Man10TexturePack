@@ -5,6 +5,12 @@
     },
          "overrides": [
         { "predicate": {"damage": 0}, "model" : "item/light_blue_dye"},
-        { "predicate": {"custom_model_data": 10 }, "model": "item/check" }
+        { "predicate": {"custom_model_data": 10 }, "model": "item/check" },
+        { "predicate": {"custom_model_data": 30 }, "model": "item/m1" },
+        { "predicate": {"custom_model_data": 31 }, "model": "item/m10" },
+        { "predicate": {"custom_model_data": 32 }, "model": "item/m100" },
+        { "predicate": {"custom_model_data": 33 }, "model": "item/m1000" },
+        { "predicate": {"custom_model_data": 34 }, "model": "item/m10000" },
+        { "predicate": {"custom_model_data": 35 }, "model": "item/light_blue_dye" }
         ]
     }

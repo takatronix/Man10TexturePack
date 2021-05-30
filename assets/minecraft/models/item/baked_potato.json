@@ -39,6 +39,42 @@
         { "predicate": {"custom_model_data": 42}, "model" : "item/baked_potato"},
 
         { "predicate": {"custom_model_data": 43}, "model" : "3d/chocolate_ita"},
-        { "predicate": {"custom_model_data": 44}, "model" : "item/baked_potato"}
-        ]
+        { "predicate": {"custom_model_data": 44}, "model" : "item/baked_potato"},
+
+        { "predicate": {"custom_model_data": 45}, "model" : "food/cotton_candy"},
+        { "predicate": {"custom_model_data": 46}, "model" : "food/ikayaki"},
+        { "predicate": {"custom_model_data": 47}, "model" : "food/takoyaki"},
+        { "predicate": {"custom_model_data": 48}, "model" : "food/applecandy"},
+        { "predicate": {"custom_model_data": 49}, "model" : "food/dan5"},
+        { "predicate": {"custom_model_data": 50}, "model" : "food/christmas_cookie"},
+        { "predicate": {"custom_model_data": 51}, "model" : "food/chocobanana"},
+        { "predicate": {"custom_model_data": 52}, "model" : "food/choko1"},
+        { "predicate": {"custom_model_data": 53}, "model" : "food/choko2"},
+        { "predicate": {"custom_model_data": 54}, "model" : "food/pudding"},
+        { "predicate": {"custom_model_data": 55}, "model" : "food/taiyaki"},
+        { "predicate": {"custom_model_data": 56}, "model" : "food/softice_brown"},
+        { "predicate": {"custom_model_data": 57}, "model" : "food/softice_pink"},
+        { "predicate": {"custom_model_data": 58}, "model" : "food/softice_white"},
+        { "predicate": {"custom_model_data": 59}, "model" : "food/rollcake"},
+        { "predicate": {"custom_model_data": 60}, "model" : "food/snack_macron"},
+        { "predicate": {"custom_model_data": 61}, "model" : "food/snack_takenoko"},
+        { "predicate": {"custom_model_data": 62}, "model" : "food/snack_kinoko"},
+        { "predicate": {"custom_model_data": 63}, "model" : "food/snack_candy"},
+        { "predicate": {"custom_model_data": 64}, "model" : "food/snack_candy2"},
+        { "predicate": {"custom_model_data": 65}, "model" : "food/snack_candy3"},
+        { "predicate": {"custom_model_data": 66}, "model" : "food/snack_dora"},
+        { "predicate": {"custom_model_data": 67}, "model" : "food/snack_jellybeans"},
+        { "predicate": {"custom_model_data": 68}, "model" : "food/sakuramochi"},
+        { "predicate": {"custom_model_data": 69}, "model" : "food/shaved_ice"},
+        { "predicate": {"custom_model_data": 70}, "model" : "item/baked_potato"},
+
+        { "predicate": {"custom_model_data": 71}, "model" : "food/tacos"},
+        { "predicate": {"custom_model_data": 72}, "model" : "food/sg"},
+        { "predicate": {"custom_model_data": 73}, "model" : "food/kitkat"},
+        { "predicate": {"custom_model_data": 74}, "model" : "food/mangoro"},
+        { "predicate": {"custom_model_data": 75}, "model" : "food/uman1"},
+        { "predicate": {"custom_model_data": 76}, "model" : "food/uman2"},
+        { "predicate": {"custom_model_data": 77}, "model" : "item/baked_potato"}
+    ]
 }
+

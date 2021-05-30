@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/diamond_block",
-		"1": "block/beacon",
-		"2": "block/cyan_concrete",
-		"4": "block/white_concrete",
-		"5": "block/light_blue_concrete",
-		"particle": "block/diamond_block"
+		"0": "custom/go916/diamond_block",
+		"1": "custom/go916/beacon",
+		"2": "custom/go916/cyan_concrete",
+		"4": "default:block/white_concrete",
+		"5": "default:block/light_blue_concrete",
+		"particle": "custom/go916/diamond_block"
 	},
 	"elements": [
 		{
