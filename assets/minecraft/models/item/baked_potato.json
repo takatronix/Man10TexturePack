@@ -74,7 +74,12 @@
         { "predicate": {"custom_model_data": 74}, "model" : "food/mangoro"},
         { "predicate": {"custom_model_data": 75}, "model" : "food/uman1"},
         { "predicate": {"custom_model_data": 76}, "model" : "food/uman2"},
-        { "predicate": {"custom_model_data": 77}, "model" : "item/baked_potato"}
+        { "predicate": {"custom_model_data": 77}, "model" : "item/baked_potato"},
+
+        { "predicate": {"custom_model_data": 78}, "model" : "food/dango"},
+        { "predicate": {"custom_model_data": 79}, "model" : "food/orange"},
+        { "predicate": {"custom_model_data": 80}, "model" : "food/strawberry_donut"},
+        { "predicate": {"custom_model_data": 81}, "model" : "item/baked_potato"}
     ]
 }
 

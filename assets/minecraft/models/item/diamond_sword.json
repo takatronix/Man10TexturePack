@@ -9,7 +9,9 @@
         { "predicate": {"custom_model_data": 12}, "model" : "guns/sao_elucidator"},
         { "predicate": {"custom_model_data": 13}, "model" : "item/muffine/excalibur"},
         { "predicate": {"custom_model_data": 14}, "model" : "guns/double_blade_division"},
-        { "predicate": {"custom_model_data": 15}, "model" : "guns/crystal_blade"},
-        { "predicate": {"custom_model_data": 16}, "model" : "guns/big_scythe"}
+        { "predicate": {"custom_model_data": 15}, "model" : "item/saver1"},
+        { "predicate": {"custom_model_data": 16}, "model" : "item/saver2"},
+        { "predicate": {"custom_model_data": 17}, "model" : "item/saver3"},
+        { "predicate": {"custom_model_data": 18}, "model" : "guns/big_scythe"}
         ]
     }

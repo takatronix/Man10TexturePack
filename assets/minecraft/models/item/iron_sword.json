@@ -4,9 +4,17 @@
         "layer0": "item/iron_sword"
     },
          "overrides": [
-        { "predicate": {"custom_model_data": 10}, "model" : "guns/kusanagi"},
-        { "predicate": {"custom_model_data": 11}, "model" : "guns/rosutovein___"},
-        { "predicate": {"custom_model_data": 12}, "model" : "guns/long_iron_sword"},
-        { "predicate": {"custom_model_data": 13}, "model" : "guns/normal_scythe"}
+        { "predicate": {"custom_model_data": 10 }, "model" : "guns/kusanagi"},
+        { "predicate": {"custom_model_data": 11 }, "model" : "guns/rosutovein___"},
+        { "predicate": {"custom_model_data": 12 }, "model" : "guns/long_iron_sword"},
+        { "predicate": {"custom_model_data": 13 }, "model" : "guns/normal_scythe"},
+        { "predicate": {"custom_model_data": 14 }, "model" : "item/diamond_battleaxe"},
+        { "predicate": {"custom_model_data": 15 }, "model" : "item/diamond_scythe"},
+        { "predicate": {"custom_model_data": 16 }, "model" : "item/emerald_sword"},
+        { "predicate": {"custom_model_data": 17 }, "model" : "item/diamond_knife"},
+        { "predicate": {"custom_model_data": 18 }, "model" : "item/end_sword"},
+        { "predicate": {"custom_model_data": 19 }, "model" : "item/nether_sword"},
+        { "predicate": {"custom_model_data": 20 }, "model" : "item/newbie_stick"},
+        { "predicate": {"custom_model_data": 21 }, "model" : "item/iron_sword"}
         ]
-    }
+}

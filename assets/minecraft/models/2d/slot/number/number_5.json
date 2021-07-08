@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "2d/slot_tex/number_tex/number_5"
+	}
+}

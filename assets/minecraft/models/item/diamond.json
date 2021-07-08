@@ -4,6 +4,9 @@
         "layer0": "item/diamond"
     },
     "overrides": [
-        { "predicate": {"custom_model_data": 10}, "model" : "2d/stone/rainbow_diamond"}
+    	{ "predicate": {"custom_model_data":1}, "model": "item/m10000"},
+    	{ "predicate": {"custom_model_data":2}, "model": "item/diamond"},
+        { "predicate": {"custom_model_data":10}, "model" : "2d/stone/rainbow_diamond"},
+        { "predicate": {"custom_model_data":11}, "model": "item/diamond"}	
     ]
 }

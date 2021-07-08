@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/stone_sword"
+    },
+         "overrides": [
+        { "predicate": {"custom_model_data": 11 }, "model": "item/dan5sword" },
+        { "predicate": {"custom_model_data": 12 }, "model": "item/homerun_bat" },
+        { "predicate": {"custom_model_data": 13 }, "model": "item/stone_sword" },
+        ]
+}
